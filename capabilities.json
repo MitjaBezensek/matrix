@@ -22,11 +22,21 @@
                 "rows": {
                     "for": {
                         "in": "category"
+                    },
+                    "dataReductionAlgorithm": {
+                        "top": {
+                            "count": 30000
+                        }
                     }
                 },
                 "columns": {
                     "for": {
                         "in": "legend"
+                    },
+                    "dataReductionAlgorithm": {
+                        "top": {
+                            "count": 30000
+                        }
                     }
                 },
                 "values": {
