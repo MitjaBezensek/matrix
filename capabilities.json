@@ -16,6 +16,12 @@
             "kind": "Measure"
         }
     ],
+    "drilldown": {
+        "roles": [
+            "category",
+            "legend"          
+        ]
+    },
     "dataViewMappings": [
         {
             "matrix": {
